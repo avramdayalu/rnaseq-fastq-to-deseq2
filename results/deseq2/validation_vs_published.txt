@@ -1,0 +1,5 @@
+Genes present in both analyses: 10386
+Significant (padj < 0.05): this pipeline 912 | published counts 3217 | overlap 890
+Share of this pipeline's DE genes also DE in published counts: 97.6%
+Spearman correlation of log2FC (genes DE in either): 0.929
+
