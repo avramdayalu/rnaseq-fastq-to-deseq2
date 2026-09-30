@@ -5,3 +5,7 @@ results/salmon/
 results/fastqc_raw/
 results/fastp/
 results/multiqc/multiqc_data/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
