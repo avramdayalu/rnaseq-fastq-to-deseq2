@@ -1,3 +1,7 @@
 data/
 results/salmon/
 *.fastq.gz
+*.tar.gz
+results/fastqc_raw/
+results/fastp/
+results/multiqc/multiqc_data/
